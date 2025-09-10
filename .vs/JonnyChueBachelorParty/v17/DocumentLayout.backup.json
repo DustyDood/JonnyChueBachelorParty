@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\pages\\location.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\pages\\location.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\wwwroot\\js\\geolocation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\wwwroot\\js\\geolocation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\pages\\step1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\pages\\step1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\jonnychuebachelorparty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\jonnychuebachelorparty.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|c:\\users\\justi\\onedrive\\documents\\github\\jonnychuebachelorparty\\jonnychuebachelorparty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB7AA3EA-E614-4D21-AA1F-C2266FEEF9EC}|JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj|solutionrelative:jonnychuebachelorparty\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\App.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\App.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T04:40:02.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "geolocation.js",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\wwwroot\\js\\geolocation.js",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\wwwroot\\js\\geolocation.js",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\wwwroot\\js\\geolocation.js",
+              "RelativeToolTip": "JonnyChueBachelorParty\\wwwroot\\js\\geolocation.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-10T04:28:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\_Imports.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T03:56:18.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Pages\\Location.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\Pages\\Location.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Pages\\Location.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\Pages\\Location.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T03:44:59.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T04:32:03.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T04:31:59.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Step1.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Pages\\Step1.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\Pages\\Step1.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Pages\\Step1.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\Pages\\Step1.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T04:31:05.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Program.cs",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Program.cs",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Program.cs",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T04:28:17.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JonnyChueBachelorParty.csproj",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj",
+              "RelativeToolTip": "JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T04:14:29.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "JonnyChueBachelorParty\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T04:28:36.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\wwwroot\\app.css",
+              "RelativeToolTip": "JonnyChueBachelorParty\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-09T04:28:31.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\appsettings.json",
+              "RelativeDocumentMoniker": "JonnyChueBachelorParty\\appsettings.json",
+              "ToolTip": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\appsettings.json",
+              "RelativeToolTip": "JonnyChueBachelorParty\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T04:28:21.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

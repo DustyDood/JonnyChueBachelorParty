@@ -1,0 +1,62 @@
+﻿@page "/location"
+@using Geolocation.Blazor
+@inject IGeolocationService GeolocationService
+@rendermode InteractiveServer
+
+
+
+@inject IJSRuntime JSRuntime
+
+<h3>Get Your Location</h3>
+<button @onclick="GetLocation">Get Location</button>
+<button @onclick="@TestClick">Test Button</button>
+
+@code {
+    private void TestClick()
+    {
+        Console.WriteLine("Button clicked");
+    }
+}
+
+
+@if (!string.IsNullOrEmpty(locationMessage))
+{
+    <p>@locationMessage</p>
+}
+
+@code {
+    private string? locationMessage;
+
+    private async Task GetLocation()
+    {
+        Console.WriteLine("Beep");
+        var dotNetRef = DotNetObjectReference.Create(this);
+        await JSRuntime.InvokeVoidAsync("geolocationInterop.getCurrentPosition", new
+        {
+            enableHighAccuracy = true,
+            timeout = 10000,
+            maximumAge = 0
+        }, dotNetRef);
+    }
+
+    [JSInvokable]
+    public async Task ReceivePosition(PositionData position)
+    {
+        locationMessage = $"Latitude: {position.Latitude}, Longitude: {position.Longitude}, Accuracy: {position.Accuracy} meters";
+        await InvokeAsync(StateHasChanged);
+    }
+
+    [JSInvokable]
+    public async Task ReceiveError(string error)
+    {
+        locationMessage = $"Location error: {error}";
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public class PositionData
+    {
+        public double Latitude { get; set; }
+        public double Longitude { get; set; }
+        public double Accuracy { get; set; }
+    }
+}

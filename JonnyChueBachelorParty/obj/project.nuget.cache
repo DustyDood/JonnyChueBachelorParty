@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMN3sb/pJiE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Justi\\OneDrive\\Documents\\GitHub\\JonnyChueBachelorParty\\JonnyChueBachelorParty\\JonnyChueBachelorParty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Justi\\.nuget\\packages\\geolocation.blazor_willem640\\1.0.0\\geolocation.blazor_willem640.1.0.0.nupkg.sha512",
+    "C:\\Users\\Justi\\.nuget\\packages\\microsoft.jsinterop\\3.1.8\\microsoft.jsinterop.3.1.8.nupkg.sha512",
+    "C:\\Users\\Justi\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
